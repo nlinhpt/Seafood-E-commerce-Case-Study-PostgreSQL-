@@ -23,3 +23,7 @@ Key insights
 - Highest abandonment: **Russian Caviar** (Luxury) — frequently added to cart but rarely purchased.  
 - Highest view→purchase rate: **Lobster** (~**48.74%**).  
 - Top sellers (by purchase volume): **Lobster, Oyster, Crab** (all Shellfish).
+
+## Added files
+- `data/casestudy_db.sql` — PostgreSQL dump to create and populate the case study database.
+- `sql/solution.sql` — SQL solution that answers the analysis questions and builds summary tables (e.g., `product_summary`, `category_summary`).
