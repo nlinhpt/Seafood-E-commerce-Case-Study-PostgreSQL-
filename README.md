@@ -5,7 +5,7 @@ Objective
 
 About data
 ----------
-- ERD: `assets/ERD-Seafood-Project.png`  
+- ERD: ![ERD - Seafood Project](ERD-Seafood-Project.jpg)
 - Main tables:
   - `page_hierarchy`: 9 product pages (Salmon, Kingfish, Tuna, Russian Caviar, Black Truffle, Abalone, Lobster, Crab, Oyster) with `product_id` and `category` (Fish, Luxury, Shellfish).
   - `users`: visitors tracked by `cookie_id`.
